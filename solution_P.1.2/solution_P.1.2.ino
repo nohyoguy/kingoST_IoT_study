@@ -1,10 +1,14 @@
-#define RLED 12
-#define GLED 10
-#define BLED 8
+/**
+ * https://www.tinkercad.com/things/lv6gZtC1UGe-smartthingspb1-2
+ */
 
-#define RBTN 7
-#define GBTN 5
-#define BBTN 3
+#define RLED D12
+#define GLED D10
+#define BLED D8
+
+#define RBTN D7
+#define GBTN D5
+#define BBTN D3
 
 void setup()
 {

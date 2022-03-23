@@ -1,4 +1,5 @@
 /**
+ * https://www.tinkercad.com/things/5HH7O9hmI0d-smartthingspb1-1
  * 핀 번호, 변수명 등은 자신이 원하는대로 설정 가능합니다.
  */
 #define LED D13
