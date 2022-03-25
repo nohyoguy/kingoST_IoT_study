@@ -3,7 +3,7 @@
  * 핀 번호, 변수명 등은 자신이 원하는대로 설정 가능합니다.
  */
 #define LED D13
-#define BUTTON D7
+#define BUTTON D9
 
 /**
  * // loop에서 수정한 변수가 계속 유지되기 위해서는, loop() 밖에서 변수를
