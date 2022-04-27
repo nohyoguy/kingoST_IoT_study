@@ -1,4 +1,4 @@
-#define LED 12
+#define LED D12
 #define POTENT A0
 int power = 0;
 int interval = 1000;

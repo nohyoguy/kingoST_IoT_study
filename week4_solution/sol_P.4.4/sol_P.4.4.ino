@@ -1,6 +1,6 @@
-#define LED 9
-#define HIGHBTN 7
-#define LOWBTN 6
+#define LED D9
+#define HIGHBTN D7
+#define LOWBTN D6
 
 int bright = 100;
 

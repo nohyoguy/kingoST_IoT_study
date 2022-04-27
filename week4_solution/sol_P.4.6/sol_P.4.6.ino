@@ -1,4 +1,4 @@
-#define LED 11
+#define LED D11
 #define POTENT A0
 void setup()
 {

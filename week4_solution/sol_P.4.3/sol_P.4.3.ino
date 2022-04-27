@@ -1,5 +1,5 @@
-#define LED1 11
-#define LED2 10
+#define LED1 D11
+#define LED2 D10
 
 int bright1 = 250;
 int bright2 = 0;

@@ -1,6 +1,6 @@
-#define BTN1 13
-#define BTN2 12
-#define BTN3 11
+#define BTN1 D13
+#define BTN2 D12
+#define BTN3 D11
 
 void setup()
 {

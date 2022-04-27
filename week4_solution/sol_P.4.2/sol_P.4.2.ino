@@ -1,4 +1,4 @@
-#define LED 9
+#define LED D9
 void setup()
 {
   Serial.begin(9600);
